@@ -29,7 +29,7 @@ LATITUDE = '61.4285'
 LONGITUDE = '23.8783'
 UNITS = 'metric'
 
-BASE_URL = 'https://api.openweathermap.org/data/3.0/onecall'
+BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 FONT_DIR = os.path.join(script_dir, 'font')
 PIC_DIR = os.path.join(script_dir, 'pic')
 ICON_DIR = os.path.join(PIC_DIR, 'icon')
